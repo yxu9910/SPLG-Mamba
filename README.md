@@ -1,6 +1,6 @@
 # SPLG-Mamba Prediction Maps
 
-This package provides the saliency prediction maps of **SPLG-Mamba** on three optical remote-sensing salient object detection benchmarks.
+This package provides the saliency prediction maps of **SPLG-Mamba** on three ORSI-SOD benchmarks.
 
 ## Contents
 
@@ -30,6 +30,3 @@ If these prediction maps are useful for your research, please cite our paper:
 }
 ```
 
-## Contact
-
-For questions, please contact Yi Xu at `yxu1025@smail.nju.edu.cn`.
